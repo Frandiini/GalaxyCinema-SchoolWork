@@ -65,10 +65,8 @@ p {
 }
 
 footer {
-    width: 100%;
+    background-color:black;
     display: flex;
     justify-content: center;
-    background-color:black;
-    padding: 20px;
-    text-align: center;
+    align-items: center;
 }
